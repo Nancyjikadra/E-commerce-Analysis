@@ -1,6 +1,7 @@
 # E-commerce Platform Sales Analysis Dashboard
 
-![E-commerce Platform Sales Analysis Dashboard](./dashboard.png)
+![dashboard](https://github.com/user-attachments/assets/9bb5680a-1df5-4e9b-9e24-115ab84aaaa8)
+
 
 ## Overview
 
@@ -9,13 +10,11 @@ The **E-commerce Platform Sales Analysis Dashboard** provides an in-depth analys
 ## Features
 
 ### 1. Total Sales and Quantity Ordered
-- **Visualization:** KPI Cards
 - **Insight:** 
   - **Total Sales:** Represents the total revenue generated (`68.58M`).
   - **Quantity Ordered:** Displays the total number of products ordered (`418K`).
 
 ### 2. Top-Selling Product
-- **Visualization:** KPI Card
 - **Insight:** The `20in Monitor` is highlighted as the top-selling product, indicating its popularity among customers.
 
 ### 3. Purchase Address Distribution
